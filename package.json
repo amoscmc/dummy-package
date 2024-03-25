@@ -1,0 +1,22 @@
+{
+  "name": "@amoscmc/dummy-package",
+  "version": "1.0.0",
+  "description": "Just a dummy package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amoscmc/dummy-package.git"
+  },
+  "author": "Amos Cheung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amoscmc/dummy-package/issues"
+  },
+  "homepage": "https://github.com/amoscmc/dummy-package#readme",
+  "dependencies": {
+    "tester-pen": "^1.0.0"
+  }
+}
